@@ -1,0 +1,10 @@
+I:\Сalculator\bin\Release\Сalculator.exe
+I:\Сalculator\bin\Release\Сalculator.pdb
+I:\Сalculator\obj\Release\Сalculator.Index.resources
+I:\Сalculator\obj\Release\Сalculator.History.resources
+I:\Сalculator\obj\Release\Сalculator.Properties.Resources.resources
+I:\Сalculator\obj\Release\Сalculator.csproj.GenerateResource.cache
+I:\Сalculator\obj\Release\Сalculator.csproj.CoreCompileInputs.cache
+I:\Сalculator\obj\Release\Сalculator.exe
+I:\Сalculator\obj\Release\Сalculator.pdb
+I:\Сalculator\obj\Release\Сalculator.csprojAssemblyReference.cache

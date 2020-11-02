@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\ТКП\Сalculator\bin\Debug\Сalculator.exe
+C:\Users\User\Desktop\ТКП\Сalculator\bin\Debug\Сalculator.pdb
+C:\Users\User\Desktop\ТКП\Сalculator\obj\Debug\Сalculator.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ТКП\Сalculator\obj\Debug\Сalculator.Properties.Resources.resources
+C:\Users\User\Desktop\ТКП\Сalculator\obj\Debug\Сalculator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ТКП\Сalculator\obj\Debug\Сalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ТКП\Сalculator\obj\Debug\Сalculator.exe
+C:\Users\User\Desktop\ТКП\Сalculator\obj\Debug\Сalculator.pdb
+C:\Users\User\Desktop\ТКП\Сalculator\obj\Debug\Сalculator.Index.resources
+C:\Users\User\Desktop\ТКП\Сalculator\obj\Debug\Сalculator.History.resources
